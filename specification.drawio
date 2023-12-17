@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-12-17T18:31:28.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ovcqWhA-EKBjl7RCimQ6" version="22.1.11" type="device">
+  <diagram name="Страница — 1" id="tRLez7SjLqnH3kQzTbfm">
+    <mxGraphModel dx="1781" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-1" value="auth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuvVQZ5kFWYTrd5McOmi-2" target="HuvVQZ5kFWYTrd5McOmi-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="180" />
+              <mxPoint x="160" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuvVQZ5kFWYTrd5McOmi-2" target="HuvVQZ5kFWYTrd5McOmi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuvVQZ5kFWYTrd5McOmi-2" target="HuvVQZ5kFWYTrd5McOmi-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="290" />
+              <mxPoint x="160" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuvVQZ5kFWYTrd5McOmi-2" target="HuvVQZ5kFWYTrd5McOmi-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="390" />
+              <mxPoint x="160" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuvVQZ5kFWYTrd5McOmi-2" target="HuvVQZ5kFWYTrd5McOmi-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="490" />
+              <mxPoint x="160" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuvVQZ5kFWYTrd5McOmi-2" target="HuvVQZ5kFWYTrd5McOmi-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="390" />
+              <mxPoint x="680" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-2" value="apigateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-3" value="user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HuvVQZ5kFWYTrd5McOmi-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="44" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="395" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-10" value="blog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-13" value="notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-15" value="&lt;span style=&quot;font-size: 10px; font-family: Arial, sans-serif; color: rgb(51, 51, 51); background: white;&quot;&gt;1.2. Авторизация пользователей на&amp;nbsp;основе JWT.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="200" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-16" value="&lt;span style=&quot;font-size: 10px; font-family: Arial, sans-serif; color: rgb(51, 51, 51); background: white;&quot;&gt;1.1. Регистрация новых пользователей.&lt;/span&gt;&lt;br&gt;1.18. Получение детальной информации о&amp;nbsp;пользователе.&lt;br style=&quot;box-sizing: inherit; font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px; font-size: 10px;&quot;&gt;1.19. Смена пароля пользователя." style="text;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="310" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-17" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: white; color: rgb(51, 51, 51); font-family: Arial, sans-serif;&quot;&gt;1.16. Рассылка почтовых уведомлений на&amp;nbsp;email о&amp;nbsp;появлении новых публикаций.&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="410" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-18" value="attachment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-19" value="newsfeed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-26" value="&lt;span style=&quot;font-size: 10px; font-family: Arial, sans-serif; color: rgb(51, 51, 51); background: white;&quot;&gt;1.7. Загрузка изображений для публикации в&amp;nbsp;блоге.&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px; font-size: 10px;&quot;&gt;&#xa;&lt;br style=&quot;font-size: 10px;&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="515" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-27" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(51, 51, 51); background: white; font-size: 10px;&quot;&gt;1.3. Создание новых публикаций в&amp;nbsp;блоге разных видов: видео, текст, цитата, фото, ссылка.&lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(51, 51, 51); font-size: 10px;&quot;&gt;&lt;br&gt;&lt;span style=&quot;background: white; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px; font-size: 10px;&quot;&gt;1.4. Просмотр детальной информации о&amp;nbsp;публикации.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background: white; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px; font-size: 10px;&quot;&gt;1.5. Редактирование публикаций в&amp;nbsp;блоге.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background: white; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px; font-size: 10px;&quot;&gt;1.6. Удаление публикаций в&amp;nbsp;блоге.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background: white; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px; font-size: 10px;&quot;&gt;1.8. Комментирование публикаций в&amp;nbsp;блоге.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background: white; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px; font-size: 10px;&quot;&gt;1.9. Лайки к&amp;nbsp;публикациям. Подсчёт количествалайков к&amp;nbsp;публикациям.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background: white; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px; font-size: 10px;&quot;&gt;1.10. Пагинация для публикаций.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background: white; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px; font-size: 10px;&quot;&gt;1.11. Получение списка публикаций.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background: white; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: none; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px; font-size: 10px;&quot;&gt;1.12. Получение списка публикаций&lt;br&gt;с&amp;nbsp;применением сортировки: по&amp;nbsp;популярности, дате создания,&lt;br&gt;по&amp;nbsp;количеству лайков, по&amp;nbsp;количеству комментариев.&lt;br&gt;1.13. Репост публикаций&lt;br&gt;1.15 Категоризация публикаций по тегам&lt;br&gt;1.17 Поиск публикаций по названию&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="740" y="180" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HuvVQZ5kFWYTrd5McOmi-29" value="&lt;span style=&quot;font-size: 10px; font-family: Arial, sans-serif; color: rgb(51, 51, 51); background: white;&quot;&gt;1.14. Лента пользователя.&lt;/span&gt;&lt;br&gt;1.20. Подписка на&amp;nbsp;обновления других пользователей." style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="740" y="400" width="340" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
